@@ -7,10 +7,17 @@
 
 #### Awesome Crop Models
 
-| Name  | Language | Crop |
+|Name  |Language |Crop |
 |--------|------|----------|
-| 模型A  | Python | 小麦     |
-| 模型B  | Java  | 玉米     |
+| APSIM | C# | 小麦     |
+| APSIM-NG  | C#  | 玉米     |
+| DSSAT  | C++  | 玉米     |
+| WOFOST  | Fortran  | 玉米     |
+| DNDC  | C#  | 玉米     |
+| AquaCrop  | Python  | 玉米     |
+| LPJml  | Java  | 玉米     |
+| PCSE  | Python  | 玉米     |
+| EPIC  | Fortran  | 玉米     |
 
 #### Awesome datasets
 
@@ -25,6 +32,10 @@
 |--------|------|----------|
 | 方法A  | C++  | 土豆     |
 | 方法B  | Scala | 番茄     |
+
+#### Study document
+
+
 
 #### Miscellaneous
 | Name  | Language | Crop |
