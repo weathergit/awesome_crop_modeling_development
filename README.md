@@ -1,9 +1,9 @@
 
-
-<center>
+<div align="center">
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Cot8GYD2AeL9TeEz5iMLW4E0jeosiYQI9Q&s>
-<h3> Crop Modeling Development</h3>
-</center>
+<br>
+</div>
+<h3 align="center"> Awesome Crop Modeling </h3>
 
 #### Awesome Crop Models
 
